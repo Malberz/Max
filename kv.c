@@ -1,6 +1,8 @@
 // Linked List Key-Value Program
 // Max Albers
 
+// Follows specifications made in https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-kv
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
