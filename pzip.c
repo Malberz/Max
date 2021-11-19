@@ -1,3 +1,8 @@
+// CS 537 Fall 2022
+// Max Albers
+
+// Follows specifications given by https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/concurrency-pzip
+
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
