@@ -1,3 +1,8 @@
+// CS 537 Fall 2021
+// Max Albers
+
+// Follows implementation given in https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/processes-shell
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
